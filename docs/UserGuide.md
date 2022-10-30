@@ -43,8 +43,19 @@ Travelr allows you to plan trips around the activities in your bucket list. You 
 |**Input Box**|where you enter your commands.|
 |**Output Box**|where the results of your command are shown.
 |**Selected Trip Box**| where the current selected trip is shown.<br><br> Use `select` to select a trip.|
-|**Trip List Display** |where the Trips stored in Travelr are shown.<br><br> Commands to change the types of trips being shown:<html><ul><li>`completed`</li><li>`view`</li><li>`list`</li></ul></html>See feature list for more information about the commands.|
-| **Event List Display** |where the Events stored in Travelr are shown.<br><br> Commands to change the types of events being shown:<html><ul><li>`completed`</li><li>`view`</li><li>`list-e`</li><li>`select`</li></ul></html>See feature list for more information about the commands.
+|**Trip List Display** |where the Trips stored in Travelr are shown.<br><br> Commands to change the types of trips being shown:
+- `completed`
+- `view`
+- `list` 
+
+See feature list for more information about the commands.|
+| **Event List Display** |where the Events stored in Travelr are shown.<br><br> Commands to change the types of events being shown:
+- `completed`
+- `view`
+- `list-e`
+- `select`
+
+See feature list for more information about the commands.
  
  </div>
  
